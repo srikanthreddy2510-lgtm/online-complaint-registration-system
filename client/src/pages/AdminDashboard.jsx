@@ -330,7 +330,7 @@ const AdminDashboard = () => {
 
                                             <img
 
-                                                src={`http://localhost:5000/uploads/${complaint.image}`}
+                                                src={`https://online-complaint-registration-system-cigw.onrender.com/uploads//${complaint.image}`}
 
                                                 alt="Complaint"
 
